@@ -3,6 +3,8 @@
 Este projeto é uma aplicação completa em containers Docker que consome a API pública do Harry Potter (PotterAPI) e permite aos usuários visualizar detalhes de livros aleatórios e salvar seus favoritos em um banco de dados local.
 
 Desenvolvido como atividade prática da disciplina de **DevOps Tools**.
+*   **Discente: Weslley Matheus Gomes Freire Ferreira
+*   **Matrícula: 01717630
 
 ## 🚀 Tecnologias Utilizadas
 
