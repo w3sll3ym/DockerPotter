@@ -27,8 +27,8 @@ A aplicação foi construída utilizando a seguinte stack tecnológica:
    cd docker_potter_app
 
 ## Links do Docker Hub
-   *https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_web/general
-   *https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_api
+*   https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_web/general
+*   https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_api
    
 ## Prints da Aplicação
 
