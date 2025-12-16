@@ -26,6 +26,10 @@ A aplicação foi construída utilizando a seguinte stack tecnológica:
    git clone [https://github.com/w3sll3ym/docker_potter_app.git](https://github.com/w3sll3ym/docker_potter_app.git)
    cd docker_potter_app
 
+## Links do Docker Hub
+   https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_web/general
+   https://hub.docker.com/repository/docker/w3sll3ym/docker_potter_api
+   
 ## Prints da Aplicação
 
 <img width="2816" height="1396" alt="print1" src="https://github.com/user-attachments/assets/a9d4867c-41bd-4013-90a5-0654db0b20a1" />
